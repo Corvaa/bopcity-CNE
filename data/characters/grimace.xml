@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character y="250" sprite="grimace" camy="-200" icon="grimace">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="up" x="55" y="215" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left" x="180" y="35" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-65" y="-115" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="170" y="-110" fps="24" loop="false"/>
+	<anim name="belly" anim="belly" x="65" y="130" fps="24" loop="true"/>
+	<anim name="fall" anim="fall" x="30" y="175" fps="24" loop="false"/>
+	<anim name="invis" anim="invis" x="0" y="0" fps="24" loop="true"/>
+</character>

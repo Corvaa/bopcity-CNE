@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="330" sprite="boyfriendspritessprites" antialiasing="false" flipX="true" icon="bf" scale="0.8" gameOverChar="bop-cityBF-dead">
+	<anim name="idle" anim="bfIdle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="bfUp" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bfright" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bfleft" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bfdown" x="0" y="0" fps="24" loop="false"/>
+</character>

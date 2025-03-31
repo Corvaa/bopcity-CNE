@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="grimaceass" camx="200" camy="30" icon="grimace">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="slide in" anim="slide" x="0" y="0" fps="24" loop="false"/>
+	<anim name="shake" anim="shake" x="220" y="15" fps="24" loop="true"/>
+</character>

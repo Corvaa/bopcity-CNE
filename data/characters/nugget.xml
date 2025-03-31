@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" y="100" sprite="Nugget" scale="0.6" camx="220" camy="160" icon="nugget">
+	<anim name="idle" anim="Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up" x="-10" y="75" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left" x="275" y="-10" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right" x="-20" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Down" x="-25" y="-80" fps="24" loop="false"/>
+</character>

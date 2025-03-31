@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" y="500" sprite="rizzparty" camx="180" camy="-150" icon="tiktok">
+	<anim name="idle" anim="IDLE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="UP" x="0" y="150" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="LEFT" x="0" y="150" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="RIGHT" x="0" y="150" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="DOWN" x="0" y="150" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="110" y="-240" sprite="BC_GF" camx="30" icon="gf" isGF="true">
+	<anim name="cheer" anim="GF_swag" x="0" y="0" fps="24" loop="false"/>
+	<anim name="danceLeft" anim="GF_Chillt" x="0" y="0" fps="24" loop="false"/>
+	<anim name="danceRight" anim="GF_Chill" x="0" y="0" fps="24" loop="false"/>
+	<anim name="sad" anim="GF_Miss" x="0" y="0" fps="24" loop="false"/>
+</character>

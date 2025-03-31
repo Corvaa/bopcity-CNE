@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="grimace2" camy="-200" icon="grimace">
+	<anim name="idle" anim="dance" x="0" y="0" fps="24" loop="true"/>
+	<anim name="ladies" anim="ladies" x="-90" y="0" fps="24" loop="true"/>
+	<anim name="ladies1" anim="ladies" x="-90" y="0" fps="24" loop="false"/>
+	<anim name="flip" anim="flip" x="135" y="135" fps="24" loop="false"/>
+</character>

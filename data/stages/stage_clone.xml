@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="bg/skibidi/" name="stage_clone" zoom="0.9">
+	<sprite x="-175" y="120" sprite="skibidibgstage" name="skibidistage"/>
+	<dad x="100" y="100"/>
+	<boyfriend x="770" y="0"/>
+</stage>

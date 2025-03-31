@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="bg/mcdonalds/" name="mcdonalds" zoom="0.65">
+	<sprite x="0" y="-250" sprite="grim" scale="1.3" name="skibidistage"/>
+	<sprite name="shark" sprite="shark" type="beat" x="800" y="300">
+    <anim name="idle" anim="shark" loop="false"/>
+	</sprite>
+	<sprite name="beast" sprite="beast" type="beat" scale="1.2" x="0" y="300">
+    <anim name="idle" anim="Beast" loop="false"/>
+	</sprite>
+	<sprite name="zeebs" sprite="zeebs" type="beat" scale="1.2" x="1000" y="500">
+    <anim name="idle" anim="zeebs" loop="false"/>
+	</sprite>
+	<sprite name="why" sprite="why" type="loop" scale="1.2" x="1800" y="500" fps="6">
+    <anim name="idle" anim="why" loop="true"/>
+	</sprite>
+	<dad x="380" y="400"/>
+	<boyfriend x="1600" y="450"/>
+</stage>

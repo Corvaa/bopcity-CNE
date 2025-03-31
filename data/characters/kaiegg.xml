@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="400" sprite="kaiegg" scale="0.8" camx="200" camy="-20" antialiasing="false" icon="face">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="left" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="left" x="0" y="0" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="stage" folder="stages/" startCamPosY="600" startCamPosX="1000">
+    <solid name="bg" x="-700" y="-100" color="0x00FF49" width="2500" height="1600"/>
+	<dad x="100" y="200"/>
+	<boyfriend x="900" y="-60"/>
+</stage>

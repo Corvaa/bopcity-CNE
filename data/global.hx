@@ -4,6 +4,7 @@ import funkin.menus.MainMenuState;
 import lime.graphics.Image;
 
 static var redirectStates:Map<FlxState, String> = [
+    TitleState => "TitleBopCity",
     MainMenuState =>  "MainBopCityMenu",
     FreeplayState =>  "FreeplayBopCity",
 ];
